@@ -2,8 +2,9 @@
 
 This is a solution for the Interactive Rating Component coding challenge from Frontend Mentor. It is a React application built using TypeScript.
 
-![Screenshot](https://github.com/Ned111m/Interactive-rating-component-vite/assets/113607845/24464a72-350d-4fa3-8421-29109eef7fac)
-![Screenshot2](https://github.com/Ned111m/Interactive-rating-component-vite/assets/113607845/182e1c61-b969-4055-b60e-bfe5a74c50eb)
+![Screenshot](https://github.com/Ned111m/Interactive-rating-component-vite/assets/113607845/567eb9ed-7d79-414e-88d8-34dedd687ad3)
+![Screenshot2](https://github.com/Ned111m/Interactive-rating-component-vite/assets/113607845/e4eeb1d3-0049-4d7d-80d1-0cb84dee8328)
+
 
 
 ## Table of Contents
